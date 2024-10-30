@@ -1,2 +1,3 @@
 - 第〇章：核心框架汇总
     - [框架思维](chapter0/page1.md)
+    - [算法本质](chapter0/page2.md)
